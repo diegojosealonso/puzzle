@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(114, 197, 135);
+}
+
+#contenedor {
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+}
+
+.primera {
+    background-color: rgb(110, 124, 190);
+    width: 100px;
+    height: 50px;
+    position:absolute;
+}
+
+.segunda {
+    background-color: rgb(157, 125, 187);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position:absolute;
+}
+
+.tercera {
+    background-color: rgb(233, 229, 139);
+    width: 100px;
+    height: 50px;
+    margin-left:200px;
+}
+
+.cuarta {
+    background-color: brown;
+    width: 100px;
+    height: 50px;
+    margin: left 200px;
+    position:absolute;
+}
+
+.quinta {
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+}
